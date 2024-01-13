@@ -31,3 +31,4 @@ C:\Users\Tiago Ribeiro\OneDrive\Documentos\GitHub\DonetAPI\DotnetAPI\obj\Debug\n
 C:\Users\Tiago Ribeiro\OneDrive\Documentos\GitHub\DonetAPI\DotnetAPI\obj\Debug\net8.0\DotnetAPI.pdb
 C:\Users\Tiago Ribeiro\OneDrive\Documentos\GitHub\DonetAPI\DotnetAPI\obj\Debug\net8.0\DotnetAPI.genruntimeconfig.cache
 C:\Users\Tiago Ribeiro\OneDrive\Documentos\GitHub\DonetAPI\DotnetAPI\obj\Debug\net8.0\ref\DotnetAPI.dll
+C:\Users\Tiago Ribeiro\OneDrive\Documentos\GitHub\DonetAPI\DotnetAPI\obj\Debug\net8.0\DotnetAPI.sourcelink.json
