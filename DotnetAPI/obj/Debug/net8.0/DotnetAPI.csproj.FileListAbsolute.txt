@@ -72,3 +72,4 @@ C:\Users\Tiago Ribeiro\OneDrive\Documentos\GitHub\DonetAPI\DotnetAPI\bin\Debug\n
 C:\Users\Tiago Ribeiro\OneDrive\Documentos\GitHub\DonetAPI\DotnetAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
 C:\Users\Tiago Ribeiro\OneDrive\Documentos\GitHub\DonetAPI\DotnetAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
 C:\Users\Tiago Ribeiro\OneDrive\Documentos\GitHub\DonetAPI\DotnetAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Tiago Ribeiro\OneDrive\Documentos\GitHub\DonetAPI\DotnetAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
